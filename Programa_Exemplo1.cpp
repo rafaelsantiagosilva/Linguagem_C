@@ -13,7 +13,7 @@ int main (){
     scanf ("%f",&p2);
     
     media=(p1+p2)/2;
-    printf ("\nO valor da media é:%.1f",media);
+    printf ("\nO valor da media ï¿½:%.1f",media);
     getch();
     return(1);
 
